@@ -2,7 +2,7 @@
 
 LeNet-5 was created in 1998 by Yann Lacun, and was pioneering in its time for the performance. 
 As the -5 in the name suggests, the architecture consists of 5 hidden layers; 3 convolutional layers and 2 fully connected layers. 
-While very simple compared to newer architectures, it still performs at close to 90% accuracy with the MNIST dataset.  
+While very simple compared to newer architectures, it still performs at close to 99% accuracy with the MNIST dataset.  
 <br>Other differences from modern architectures
 are that it uses <b>tanh</b> as an activation function and <b>average pooling</b>, 
 which have largely been replaced by <b>ReLU</b> and <b>max pooling</b> in recent times. 
